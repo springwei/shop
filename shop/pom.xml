@@ -63,12 +63,6 @@
 		<version>${spring.version}</version>
 	</dependency>
 	
-	<!-- 
-	Spring 3.0 的一个新特性是 O/X Mapper。O/X 映射器这个概念并不新鲜，
-	O 代表 Object，X 代表 XML。它的目的是在 Java 对象
-        （几乎总是一个 plain old Java object，或简写为 POJO）
-	和 XML 文档之间来回转换。
-	 -->
 	 
 	<dependency>
 	    <groupId>org.springframework</groupId>
